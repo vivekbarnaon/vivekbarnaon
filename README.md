@@ -1,3 +1,5 @@
+![logo](https://github.com/vivekbarnaon/vivekbarnaon/blob/main/TechVivek%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate AI Engineer and Web3 enthusiast who loves building intelligent systems and exploring decentralized technologies.</h3>
 
