@@ -2,15 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate AI Engineer and Web3 enthusiast who loves building intelligent systems and exploring decentralized technologies.</h3>
+<h3 align="center">A passionate AI Engineer who loves building intelligent systems and exploring decentralized technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
-- 🌱 I’m currently learning **AIML, Web3, UI/UX**
+- 🌱 I’m currently learning **AIML, FULLSTACK, UI/UX**
 
-- 💬 Ask me about **ML,Web3,UI**
+- 💬 Ask me about **ML,FULLSTACK,UI**
 
 - 📫 How to reach me **vivekbarnaon@gmail.com**
 
